@@ -3,7 +3,7 @@
 - 🤖 I’m currently exploring Machine learning and Embedded systems
 - 🤝 I’m open to collaborate on software development projects
 - 📫 How to reach me on linkedIn @ https://www.linkedin.com/in/waweru-purity-47a4ba275/
-- 🌟 Fun fact: A person who thinks all the time... thinks about thinking
+- 🌟 Fun fact: A person who thinks all the time has nothing to think about except thoughts.
 
 <!---
 puritywaweru7/puritywaweru7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
